@@ -4,4 +4,5 @@
   (lib (name gkl_power)(type Legacy)(uri ${KIPRJMOD}/gkl_power.lib)(options "")(descr ""))
   (lib (name gkl_pmic)(type Legacy)(uri ${KIPRJMOD}/gkl_pmic.lib)(options "")(descr ""))
   (lib (name gkl_mosfet)(type Legacy)(uri ${KIPRJMOD}/gkl_mosfet.lib)(options "")(descr ""))
+  (lib (name gkl_mem)(type Legacy)(uri ${KIPRJMOD}/gkl_mem.lib)(options "")(descr ""))
 )
