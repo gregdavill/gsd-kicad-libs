@@ -5,4 +5,5 @@
   (lib (name gkl_pmic)(type Legacy)(uri ${KIPRJMOD}/gkl_pmic.lib)(options "")(descr ""))
   (lib (name gkl_mosfet)(type Legacy)(uri ${KIPRJMOD}/gkl_mosfet.lib)(options "")(descr ""))
   (lib (name gkl_mem)(type Legacy)(uri ${KIPRJMOD}/gkl_mem.lib)(options "")(descr ""))
+  (lib (name gkl_time)(type Legacy)(uri ${KIPRJMOD}/gkl_time.lib)(options "")(descr ""))
 )
