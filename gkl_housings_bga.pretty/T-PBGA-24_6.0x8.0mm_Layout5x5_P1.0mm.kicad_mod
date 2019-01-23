@@ -1,4 +1,4 @@
-(module gkl_housings_bga:T-PBGA-24_6.0x8.0mm_Layout5x5_P1.0mm (layer F.Cu) (tedit 5C351D78)
+(module T-PBGA-24_6.0x8.0mm_Layout5x5_P1.0mm (layer F.Cu) (tedit 5C351D78)
   (fp_text reference U5 (at 0 -4.81) (layer F.SilkS)
     (effects (font (size 0 0) (thickness 0.15)))
   )

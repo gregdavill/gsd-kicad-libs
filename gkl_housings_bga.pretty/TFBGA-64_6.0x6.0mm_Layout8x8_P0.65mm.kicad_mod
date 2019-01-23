@@ -1,4 +1,4 @@
-(module Package_BGA:XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm (layer F.Cu) (tedit 5C248A27)
+(module XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm (layer F.Cu) (tedit 5C248A27)
   (descr "XFBGA-64, https://www.nxp.com/docs/en/package-information/SOT1555-1.pdf")
   (tags XFBGA-64)
   (attr smd)
