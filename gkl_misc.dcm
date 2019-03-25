@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD8606ACB
+D IC OPAMP GP 10MHZ RRO 8WLCSP
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf
+$ENDCMP
+#
 #End Doc Library
