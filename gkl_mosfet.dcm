@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PMDXB600UNE
+D 0.6 Id, 20V Vds, Dual N-Channel MOSFET, 470mOhm Ron, SOT1216
+K Dual N-Channel MOSFET Logic Level
+F https://assets.nexperia.com/documents/data-sheet/PMDXB600UNE.pdf
+$ENDCMP
+#
 #End Doc Library
