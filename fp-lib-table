@@ -1,4 +1,5 @@
 (fp_lib_table
-	(lib (name gkl_housings_qfn)(type KiCad)(uri ${KIPRJMOD}/gkl_housings_qfn.pretty)(options "")(descr ""))
-	(lib (name gkl_housings_bga)(type KiCad)(uri ${KIPRJMOD}/gkl_housings_bga.pretty)(options "")(descr ""))
+  (lib (name gkl_housings_qfn)(type KiCad)(uri ${KIPRJMOD}/gkl_housings_qfn.pretty)(options "")(descr ""))
+  (lib (name gkl_housings_bga)(type KiCad)(uri ${KIPRJMOD}/gkl_housings_bga.pretty)(options "")(descr ""))
+  (lib (name gkl_misc)(type KiCad)(uri ${KIPRJMOD}/gkl_misc.pretty)(options "")(descr ""))
 )
